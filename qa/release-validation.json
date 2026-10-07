@@ -1,0 +1,17 @@
+{
+  "atlas_sha256": "cd5a9749f17409bd8846702b74cc9747c4d0779c7e4e8d328775b2907d6b3dfc",
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "mode": "RGBA",
+  "action_frames": 57,
+  "look_frames": 16,
+  "empty_cells": 15,
+  "approved_atlas_unchanged": true,
+  "preview_links_resolved": true,
+  "public_text_scan_passed": true,
+  "known_limitations": [
+    "部分中间视线方向存在歧义，已人工审核；并非每个角度都能单凭单帧精确辨认。"
+  ]
+}
